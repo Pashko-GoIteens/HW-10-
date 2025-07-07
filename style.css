@@ -1,0 +1,85 @@
+.btn {
+      font-size: 24px;
+      font-weight: 700;
+      background-color: yellow;
+      padding: 10px 20px;
+      margin: 40px;
+      border: none;
+      cursor: pointer;
+    }
+     .text {
+      font-size: 18px;
+      font-style: italic;
+      text-transform: uppercase;
+    }
+   .btn {
+      font-size: 24px;
+      font-weight: 700;
+      background-color: yellow;
+      padding: 10px 20px;
+      margin: 40px;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .btn:hover {
+      padding: 15px 25px;
+      font-size: 30px;
+      background-color: red;
+    }
+
+    .btn:active {
+      padding: 15px 25px;
+      background-color: green;
+      color: purple;
+    }
+
+    .text {
+      font-size: 18px;
+      font-style: italic;
+      text-transform: uppercase;
+      transition: all 0.3s ease;
+    }
+
+    .text:hover {
+      font-size: 25px;
+      font-weight: 700;
+      color: gray;
+    }
+    .btn {
+      font-size: 24px;
+      font-weight: 700;
+      background-color: yellow;
+      padding: 10px 20px;
+      margin: 40px;
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .btn:hover {
+      padding: 15px 25px;
+      font-size: 30px;
+      background-color: red;
+    }
+
+    .btn:active {
+      padding: 15px 25px;
+      background-color: green;
+      color: purple;
+
+    }
+
+    .text {
+      font-size: 18px;
+      font-style: italic;
+      text-transform: uppercase;
+      transition: all 0.3s ease;
+    }
+
+    .text:hover {
+      font-size: 25px;
+      font-weight: 700;
+      color: gray;
+    }
